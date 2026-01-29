@@ -1,4 +1,4 @@
-var CACHE_NAME = 'dobor-calc-v1.0.0';
+var CACHE_NAME = 'dobor-calc-v1.0.1';
 var urlsToCache = [
   './',
   './index.html'
